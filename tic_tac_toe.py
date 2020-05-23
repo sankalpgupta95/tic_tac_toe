@@ -100,7 +100,7 @@ while True:
         while True:
             while True:
                 try:
-                    position = int(input("Player 1 Enter the position of your marker "))
+                    position = int(input("Player 2 Enter the position of your marker "))
                 except ValueError:
                     print("!!Enter only numbers from 1 to 9")
                     continue
